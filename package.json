@@ -1,0 +1,16 @@
+{
+  "name": "borrar",
+  "version": "1.0.0",
+  "description": "",
+  "main": "curl_api_prolongado.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "https": "^1.0.0",
+    "nodemailer": "^6.7.3",
+    "xmlhttprequest": "^1.8.0"
+  }
+}
